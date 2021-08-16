@@ -1,0 +1,13 @@
+{
+    "title": "Hey You need help?",
+    "pmBody": "I Read your post and saw you needed some help.",
+    "subreddits": [
+        "subreddit1",
+        "subreddit2",
+        "subreddit3",
+        "subreddit4",
+        "subreddit5"
+    ],
+    "forbiddenWords": ["forbiddenWord1", "forbiddenWord2", "forbidden string 1", "forbidden string 2"]
+    
+}
